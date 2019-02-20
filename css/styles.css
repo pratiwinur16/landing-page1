@@ -1,0 +1,52 @@
+.jumbotron{
+    background-color: pink;
+}
+
+.title{
+    text-align: center;
+    
+}
+.avatar{
+    border-radius: 100%;
+    width:150px;
+    height: 150px;
+    margin-right: auto;
+    margin-left:auto;
+    display:block;
+}
+.center-title-about{
+    text-align:center;
+    font-family:"Ubuntu";
+}
+.content-center{
+    text-align: center;
+    font-family: "Ubuntu";
+    padding-top: 15px;
+}
+.project-card{
+    background-color: lightblue;
+    padding-top : 40px;
+}
+.project-title{
+    text-align:center; 
+    font-family: "Ubuntu";
+    padding-bottom: 20px; 
+}
+.contact-center{
+    text-align: center;
+    font-family: "Ubuntu";
+    font-size: 30px;
+    padding-top : 50px;
+   
+}
+
+.gambar-sosmed{
+   margin: 1rem;
+
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+   
+}
